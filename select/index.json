@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エマニエル - Emmanuelle",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-28T18:23:25.038339Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エマニエル - Emmanuelle",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_エマニエル_-_Emmanuelle_CreepyNuts.txt"
+    }
+  ]
+}
